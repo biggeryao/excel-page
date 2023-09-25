@@ -3,7 +3,7 @@ module.exports = defineConfig({
   transpileDependencies: true,
   lintOnSave: false,
   publicPath: process.env.NODE_ENV === 'production'
-      ? '/excel-tool-pages/'
+      ? '/excel-githubPage/'
       : '/',
 
 })
